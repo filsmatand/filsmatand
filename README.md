@@ -1,4 +1,4 @@
-### Hi there 👋
+### H there 👋
 
 <p> I'm <strong>Scofield Matanda</strong> a software developper </p>
 
