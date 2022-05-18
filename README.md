@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Ethical Hacking.
 - 👯 I’m looking to collaborate on an open source project.
 - 💬 Ask me about web development.
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Congo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filsmatand&label=Profile%20views&color=0e75b6&style=flat" alt="filsmatand" /> </p>
 
