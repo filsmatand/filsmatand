@@ -49,3 +49,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filsmatand&show_icons=true&locale=en" alt="filsmatand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filsmatand&" alt="filsmatand" /></p>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="filsmatanda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cd.linkedin.com/in/filsmatanda?trk=profile-badge">Fils Matanda</a></div>
+              
+
