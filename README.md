@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filsmatand&show_icons=true&locale=en&layout=compact" alt="filsmatand" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filsmatand&show_icons=true&locale=en" alt="filsmatand" /></p>
-<p align="left">
+<p align="rigth">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
 
