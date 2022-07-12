@@ -30,8 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filsmatand&show_icons=true&locale=en" alt="filsmatand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filsmatand&" alt="filsmatand" /></p>
-<p align="right">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<p align="left">
+    <img align="left" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
 
 
