@@ -14,6 +14,248 @@
 
 
     
+    
+    
+    
+    
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
+<h1 align="center">Hi I'm Code-Oz</h1>
+
+<!-- Intro -->
+
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+    <h3 align="center">Love JS, love writting dev article and share my knowledges</h3>
+    <h3 align="center">I'm web developper and I make some application, writting some articles and making video on youtube for french 🥖 web dev</h3>
+</p>
+
+<!-- Social network -->
+<p style="margin-top: 50px;">
+    <p align="left">
+        <a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/twitter/follow/code__oz?logo=twitter&style=for-the-badge" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://dev.to/codeoz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://www.tiktok.com/@code_oz" target="blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
+    </p>
+        <p align="left">
+        <a href='https://www.youtube.com/watch?v=RNSEtNQIcVM&t=1224s&ab_channel=Docker' target="blank">🐳 Docker Conf Speaker</a>
+    </p>
+</p>
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=code-oz&theme=onedark&rank=S,AAA,AA,A, B" alt="code-oz" /></p>
+<!-- Projects -->
+<h1 align="center">My latest projects 👨‍💻</h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer">My Blog 📰</a>
+                </h3>
+                <p align="center">
+                    <a href="https://codeoz-blog.com/" target="_blank" rel="noreferrer"> <img src="./static/oz-blog.gif" alt="codeoz blog"/> </a>
+                    <p align="center">
+                        This is my own blog where I share my knowledges
+                    </p>
+                </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <p align="center">
+                        A chill radio from youtube to listen Lo-Fi music without being disturbed
+                    </p>
+            </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
+                </h3>
+                <p align="center">
+                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <p align="center">
+                        A netflix like for the Youtube Channel Cacabox TV
+                    </p>
+                </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">Unbox JS 📦</h3>
+                <p align="center">
+                    <a href="https://www.npmjs.com/package/unbox-js" target="_blank" rel="noreferrer"> <img src="./static/unbox-js.gif" alt="unbox-js"/> </a>
+                    <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
+                    <p align="center">
+                        npm repository
+                    </p>
+            </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center">
+                <h3 align="center">
+                <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer">Underrated skill in javascript 📚</a>
+                </h3>
+                <p align="center">
+                    <a href="https://codeoz.gumroad.com/l/RXLYp" target="_blank" rel="noreferrer"> <img src="./static/ebook-underrated.png" alt="ccbox-tv" /> </a>
+                    <p align="center">
+                        This book is for all javascript developers that want to learn unpopular things about javascript
+                    </p>
+                </p>
+            </td>
+            <td width="100%" align="center">
+                <h3 align="center">Others ...</h3>
+                </p>
+                <p align="center">
+                    <p align="center">
+                        <a href="https://marketplace.visualstudio.com/items?itemName=code-oz.what-is-operator-javascript" target="_blank" rel="noreferrer">What is operator javascript 🔌 </a>
+                        <p>
+                            I created an operator lookup plugin for all VSCode user!
+                        </p>
+                    </p>
+                </p>
+                <p align="center">
+                    <p align="center">
+                        <a href="https://github.com/Code-Oz/youtube-dl-front" target="_blank" rel="noopener" > YT Downloader 🛠</a>
+                        <p>
+                            I created a youtube downloader that manage video & playlist
+                        </p>
+                    </p>
+                </p>
+                <p align="center">
+                    <p align="center">
+                        <a href="https://chrome.google.com/webstore/detail/beta-twitch-plus/ahdoacgdgcgkhmajnmibefppffbbkgnl?hl=fr&authuser=0" target="_blank" rel="noopener"> Twitch plus 🤖</a> 
+                        <p>
+                            Chrome extension that improve your experience on twitch
+                        </p>
+                    </p>
+                </p>
+                <p align="center">
+                    <p align="center">
+                        <a href="https://www.npmjs.com/package/liftp-js" target="_blank" rel="noopener"> liftP JS 📦</a> 
+                        <p>
+                            NPM Package to modify a sync function into an async function without manage parameters
+                        </p>
+                    </p>
+                </p>
+                <p style='margin-bottom: 175px'>
+                </p>  
+            </td>
+        </tr>
+  </table>
+</div>
+
+<!-- Important repo -->
+
+<h1 align="center"> Important Repository ⭐️ </h1>
+<div align="center">
+<table>
+    <tr>
+        <td width="50%">
+            <p align="center">
+                <a href="https://github.com/Code-Oz/setup-linux-dev" target="_blank" rel="noopener"> Setup dev from start </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/Code-Oz/setup-linux-dev" target="blank"><img src="https://img.shields.io/github/stars/code-oz/setup-linux-dev?style=social" alt="code__oz" /></a>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://github.com/Code-Oz/basic-express-typescript" target="_blank" rel="noopener"> Basic express typescript bootstrap </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/Code-Oz/basic-express-typescript" target="blank"><img src="https://img.shields.io/github/stars/code-oz/basic-express-typescript?style=social" alt="code__oz" /></a>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <p align="center">
+                <a href="https://github.com/cendevweb/unbox" target="_blank" rel="noopener"> Unbox js npm repo </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/cendevweb/unbox" target="blank"><img src="https://img.shields.io/github/stars/cendevweb/unbox?style=social" alt="code__oz" /></a>
+            </p>
+            <p align="center">
+                <a href="https://www.npmjs.com/package/unbox-js" target="blank"><img src="https://img.shields.io/npm/dy/unbox-js" alt="unbox-js-badge" /></a>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://github.com/Code-Oz/code-oz" target="_blank" rel="noopener"> CodeOz Profile </a>
+             </p>
+            <p align="center">
+                <a href="https://github.com/Code-Oz/code-oz" target="blank"><img src="https://img.shields.io/github/stars/code-oz/code-oz?style=social" alt="code__oz" /></a>
+            </p>
+        </td>
+    </tr>
+</table>
+ 
+<!-- Important Articles -->
+
+<h1 align="center"> Most viewed article on Devto 📰 </h1>
+<div align="center">
+<table>
+    <tr>
+        <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/improve-your-js-skills-with-theses-tips-2-3bg2" target="_blank" rel="noopener">Improve your JS skills with those tips #2</a>
+             </p>
+            <p align="center">
+                <i>
+                    19500 views 👀
+                </i>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/enhance-your-js-skill-by-using-the-correct-array-method-5c2j" target="_blank" rel="noopener">Enhance your JS Skill by using the correct array method</a>
+             </p>
+            <p align="center">
+                <i>
+                    12000 views 👀
+                </i>
+            </p>
+        </td>
+    </tr>
+    <tr>
+         <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/7-html-attribute-you-should-know-right-now-dfn" target="_blank" rel="noopener"> 7 HTML attribute you should know right now! </a>
+             </p>
+            <p align="center">
+                <i>
+                    10000 views 👀
+                </i>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+                <a href="https://dev.to/codeoz/3-ways-to-center-a-div-in-css-gl1" target="_blank" rel="noopener"> 3 Ways to CENTER a div in CSS </a>
+             </p>
+            <p align="center">
+                <i>
+                    9000 views 👀
+                </i>
+            </p>
+        </td>
+    </tr>
+</table>
+    
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
 
@@ -71,3 +313,4 @@
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
+
