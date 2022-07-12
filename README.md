@@ -19,7 +19,7 @@
     
     
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
-<h1 align="center">Hi I'm Code-Oz</h1>
+<h1 align="center">Hi I'm fils matanda</h1>
 
 <!-- Intro -->
 
@@ -30,30 +30,6 @@
 </p>
 
 <!-- Social network -->
-<p style="margin-top: 50px;">
-    <p align="left">
-        <a href="https://twitter.com/code__oz" target="blank"><img src="https://img.shields.io/twitter/follow/code__oz?logo=twitter&style=for-the-badge" alt="code__oz" /></a>
-    </p>
-    <p align="left">
-        <a href="https://www.youtube.com/channel/UCC675U1ZUPFASsK9-FjawtA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a>
-    </p>
-    <p align="left">
-        <a href="https://dev.to/codeoz" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a>
-    </p>
-    <p align="left">
-        <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="code__oz" /></a>
-    </p>
-    <p align="left">
-        <a href="https://www.tiktok.com/@code_oz" target="blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="code__oz" /></a>
-    </p>
-    <p align="left">
-        <a href="https://github.com/Code-Oz" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
-    </p>
-        <p align="left">
-        <a href='https://www.youtube.com/watch?v=RNSEtNQIcVM&t=1224s&ab_channel=Docker' target="blank">🐳 Docker Conf Speaker</a>
-    </p>
-</p>
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=code-oz&theme=onedark&rank=S,AAA,AA,A, B" alt="code-oz" /></p>
 
 
 
